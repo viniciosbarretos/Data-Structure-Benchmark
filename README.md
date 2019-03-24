@@ -5,4 +5,4 @@ The objective of this work is to compare the efficiency of search algorithms in 
 For the accomplishment of the experiment was used 3 different types of structures:
 1. Conventional Binary Tree
 2. Balanced Binary Tree with AVL Method
-3. Ordered vector
+3. Array sorted with QuickSort algorithm
