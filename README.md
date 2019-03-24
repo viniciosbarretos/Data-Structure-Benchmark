@@ -1,9 +1,8 @@
 # Data-Structure-Benchmark
 
-O objetivo deste trabalho é comparar a eficiência de algoritmos de busca em diferentes estruturas de dados.
+The objective of this work is to compare the efficiency of search algorithms in different data structures.
 
-Para a realização do experimento foi utilizado 3 diferentes tipos de estruturas:
-1. Árvore Binária convencional
-2. Árvore Binária Balanceada com o método AVL
-3. Vetor ordenado
-
+For the accomplishment of the experiment was used 3 different types of structures:
+1. Conventional Binary Tree
+2. Balanced Binary Tree with AVL Method
+3. Ordered vector
